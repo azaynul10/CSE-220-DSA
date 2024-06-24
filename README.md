@@ -1,4 +1,4 @@
-![giphy (1)](https://github.com/azaynul10/CSE-220-DSA/assets/111334392/c320b402-65d1-4b73-b54f-af38d1e29e0a)# 🌟 CSE-220 Data Structures Repository 🌟
+# 🌟 CSE-220 Data Structures Repository 🌟
 
 Welcome to my repository for the CSE-220 Data Structures course at BRAC University! This repo contains assignments and course materials covering fundamental data structures and algorithms. Get ready to dive into the exciting world of Arrays, Linked Lists, Stacks, Queues, Sorting Algorithms, Recursion, Trees, Heaps, and Graphs! 
 ![giphy (2)](https://github.com/azaynul10/CSE-220-DSA/assets/111334392/4f28710d-6565-4622-ac4d-12901667c98b)
