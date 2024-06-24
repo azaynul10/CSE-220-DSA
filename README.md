@@ -52,7 +52,8 @@ If you have any suggestions or find any bugs, feel free to open an issue or subm
 
 ## 🙌 Acknowledgments
 
-Huge thanks to our amazing CSE-220 instructor and TAs for their guidance and support throughout the course! 
+Huge thanks to our amazing CSE-220 Faculties (including Abu Ibrahim Iqra sir, A B M Muntasir Rahman 
+sir and Adittya Ranjan Das sir  and ST G. M. Refatul Islam bhaiya) for their guidance and support throughout the course! 
 
 
 ![giphy](https://github.com/azaynul10/CSE-220-DSA/assets/111334392/1acb73e6-974c-4ca5-b4f8-244bdb34bf21)
