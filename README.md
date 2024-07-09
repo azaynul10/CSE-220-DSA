@@ -41,7 +41,7 @@ To run the code in this repository:
 
 1. Clone the repo
 2. Navigate to the desired topic folder
-3. Compile and run the code using a C++ compiler
+3. Compile and run the code using a python/Jupyter notebook compiler
 
 ## 🤝 Contributing
 
